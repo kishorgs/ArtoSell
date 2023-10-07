@@ -1,2 +1,3 @@
-# ArtoSell
-This is a simple artwork selling mobile application built using flutter.
+# ecommerce
+
+A new Flutter project.
